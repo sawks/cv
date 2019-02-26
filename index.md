@@ -70,8 +70,8 @@ Trout are an integrated creative studio, with a background in brand design and a
 * Digital strategy consulting with professional services clients including NAB, Ernst & Young
 * Led website development projects for Reece Australia, Corrs Chambers Westgarth, Adairs, Victorian Opera
 
-### 2001-2002—Front-end Developer, Squib (now Tribal Worldwide Melbourne)
+### 2000-2001—Front-end Developer, Squib (now Tribal Worldwide Melbourne)
 
-### 2000—Front-end Developer, Zivo (Auckland, NZ)
+### 1999-2000—Front-end Developer, Zivo (Auckland, NZ)
 
 ### 1998-Present—Contract Web Developer, Technology Consultant
