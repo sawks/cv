@@ -5,8 +5,6 @@ Technology Consultant/Team Leader
 ## Contact Details
 * Email – [matt.sawkill@gmail.com](mailto:matt.sawkill@gmail.com)
 * Mobile – 0428 220 002
-* Skype – illsawk
-* Postal – 33 Canning St, Carlton VIC 3053
 
 ## Overview
 
