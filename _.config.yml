@@ -1,7 +1,10 @@
+theme: jekyll-theme-midnight
+title: Matt Sawkill's CV
+description: test
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
 include:
-  - cv.md
+  - index.md
