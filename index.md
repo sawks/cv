@@ -1,6 +1,6 @@
 # Matt Sawkill
 
-Technology Consultant/Team Leader
+Technology Consultant & Team Leader
 
 ## Contact Details
 * Email – [matt.sawkill@gmail.com](mailto:matt.sawkill@gmail.com)
