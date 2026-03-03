@@ -1,12 +1,9 @@
-# Matt Sawkill
-
-Technology Consultant & Team Leader
-
 ## Contact Details
+* Brunswick West, Melbourne Victoria
 * Email – [matt.sawkill@gmail.com](mailto:matt.sawkill@gmail.com)
 * Mobile – 0428 220 002
 
-## Overview
+## About
 
 I'm obsessed with the craft and delivery of easy to use, accessible and performant  digital services and products at scale. I've been working in design-led digital agencies for 20 years as a full-stack developer, information architect, strategic consultant and team leader. Open source software, web standards and human-centric design are the foundations of my approach. My leadership and engagement skills, deep understanding of brand strategy, user experience and unrelenting focus on quality complement my background in technology.
 
