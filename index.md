@@ -36,13 +36,13 @@ I'm now looking for opportunities in product companies and larger organisations 
 
 Code for Australia was acquired by Portable in late 2024, and I joined one of their multi-disciplinary delivery teams as a Technology Lead. In addition to ongoing stewardship of CfA's programs and relationships, my role includes managing direct reports, providing technical leadership in client project delivery and internal product development, contributing to business development and co-ordination of Portable's Technology practice - knowledge sharing and technical standards across the business.
 
-* Production launch of a redesigned version of the AQVx application, built with AWS, GeoServer, Python and React
+* Production launch of a redesigned version of the [AQVx](https://research.csiro.au/aqfx/aqvx-and-airrater/) application, built with AWS, GeoServer, Python and React
 * Technical consulting to ACMI on their platform strategy, National Legal Aid on their data strategy
-* Leadership of the Technology discipline across multiple independent delivery units
+* Leadership of Portable's Technology Discipline across multiple independent delivery units
 
 ### 2019-2024: Managing Director, [Code for Australia](https://codeforaustralia.org)
 
-After playing an active role in their community, I was given the opportunity to take over the leadership of Code for Australia. CfA was the local chapter of [Code for All](https://codeforall.org/), an international network of Civic Technology organisations dedicated to transforming how governments engage with society through technology.
+After playing an active role in their community, I was given the opportunity to take over the leadership of Code for Australia. CfA was the local chapter of [Code for All](https://codeforall.org/), an international network of "Civic Tech" organisations - dedicated to transforming how governments engage with society through technology.
 
 Code for Australia's work was focussed on capability building for local, state and commonwealth government parters. We placed delivery teams inside public sector organisations to "work in the open" and ran training programs to demystify Human-centred Design and Agile delivery concepts for non-technical stakeholders.
 
@@ -72,11 +72,11 @@ I joined Today to build their technology practice and establish standards and me
 * Established DevOps culture, device laboratory, continuous integration and delivery
 * Led Delivery and QA of websites awarded multiple times in the Webbys and Good Design Awards
 
-### 2004–2014: Web Developer, Technical Lead, Technical Director, [Trout Creative Thinking](http://www.trout.com.au)
+### 2004–2014: Technical Director, [Trout Creative Thinking](http://www.trout.com.au)
 
 Trout are an integrated creative studio, with a background in brand design and advertising. They've developed brand strategy and visual identities for some of Australia's largest organisations. I established and led their digital practice for 10 years.
 
 * Team recruitment and management
-* Responsible for full stack development, Information Architecture, usability testing
+* Responsible for Full Stack web development, Information Architecture, Usability Testing
 * Digital strategy consulting with professional services clients including NAB, Ernst & Young
-* Led website development projects for Reece Australia, Corrs Chambers Westgarth, Adairs, Victorian Opera
+* Led website projects for Reece Australia, Corrs Chambers Westgarth, Adairs, Victorian Opera
