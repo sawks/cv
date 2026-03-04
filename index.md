@@ -50,7 +50,7 @@ Code for Australia's work was focussed on capability building for local, state a
 * Established new offerings including Code for Australia's Advisory Service and Managing Digital Projects course
 * Lead the Discovery phase for Transport for NSW's [Asset AI project](https://www.transport.nsw.gov.au/data-and-research/future-mobility/our-projects/asset-ai)
 
-### 2018–2019: Principal, Technology, [Today](https://today.design)
+### 2018–2019: Principal - Technology, [Today](https://today.design)
 
 Today is a strategic design agency with a community innovation focus. I worked with clients in  government, healthcare, education and non-profit sectors as well as leading corporates – helping establish the vision for their digital service delivery and delivering the products that realise it.
 
